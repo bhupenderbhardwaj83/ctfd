@@ -1,2 +1,0 @@
-# ctfd
-ctfd
